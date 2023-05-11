@@ -1,0 +1,1 @@
+This introduce basic concepts of shell
